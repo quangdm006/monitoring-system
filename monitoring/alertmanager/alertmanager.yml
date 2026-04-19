@@ -1,0 +1,16 @@
+global:
+  resolve_timeout: 5m
+
+route:
+  group_by: ['alertname']
+  group_wait: 30s
+  receiver: 'telegram'
+
+receivers:
+  - name: 'telegram'
+    telegram_configs:
+      - bot_token: '8744644825:AAHHTHXmgf9Tt03hFHQAGgsG9WtOTFf-em4'
+        chat_id: 8601696069
+        message: 'Alert fired'
+
+inhibit_rules: []
