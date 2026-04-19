@@ -1,0 +1,11 @@
+[2026-04-19 17:33:24] ===== BAT DAU IMPORT USER TU CSV =====
+[2026-04-19 17:33:25] Da tao nhom: developer
+[2026-04-19 17:33:25] Da tao user: nguyen_van_a | Nhom: developer | Het han: 2026-12-31
+[2026-04-19 17:33:26] Da cap quyen developer cho: nguyen_van_a
+[2026-04-19 17:33:27] Da tao nhom: readonly
+[2026-04-19 17:33:27] Da tao user: tran_thi_b | Nhom: readonly | Het han: 2026-12-31
+[2026-04-19 17:33:28] Da tao user readonly: tran_thi_b
+[2026-04-19 17:33:28] Da tao nhom: admin
+[2026-04-19 17:33:28] Da tao user: le_van_c | Nhom: admin | Het han: 2026-12-31
+[2026-04-19 17:33:29] Da cap quyen sudo cho: le_van_c
+[2026-04-19 17:33:29] ===== KET THUC IMPORT USER =====
